@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Shoval Omesi 👋
 
-<!--
-**shovalomesi/ShovalOmesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Graduate | Embedded Systems Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering graduate with a strong interest in Embedded Systems, low-level programming, and hardware-software integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing applications in C/C++, working with microcontrollers, and solving technical challenges involving communication protocols and hardware peripherals.
+
+### 🛠️ Technical Skills
+
+- **Programming:** C, C++, Python
+- **Embedded Systems:** STM32, ARM Cortex-M, Bare-Metal Programming
+- **Communication & Peripherals:** UART, SPI, I2C, ADC, DMA, Timers, UDP
+- **Tools & Technologies:** STM32CubeIDE, STM32CubeMX, Git, GitHub, Linux, SQLite3
+
+### 🚀 Featured Projects
+
+**🔹 STM32 Hardware Testing System**
+
+Developed a hardware testing and verification system using the STM32F756ZG microcontroller.
+
+- Implemented peripheral tests for UART, SPI, I2C, ADC, and Timers.
+- Used DMA and UDP communication between STM32 and a Linux-based test client.
+- Integrated SQLite3 to store and manage test results.
+
+[View Project](https://github.com/shovalomesi/STM32-Hardware-Test-System)
+
+**🔹 Blackjack Game in C**
+
+Developed a console-based Blackjack game using C, demonstrating programming fundamentals, linked lists, and dynamic memory management.
+
+[View Project](https://github.com/shovalomesi/blackjack-c)
+
+### 📫 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/shovalomesi)
