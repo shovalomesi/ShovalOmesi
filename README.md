@@ -1,19 +1,34 @@
+
 # Hi, I'm Shoval Omesi 👋
 
-### 💻 Software Engineering Graduate | Embedded Systems Developer
+### 💻 Data Engineering Graduate | Embedded & Real-Time Software Developer
 
-I'm a Software Engineering graduate with a strong interest in Embedded Systems, low-level programming, and hardware-software integration.
+I'm a Data Engineering graduate with practical training in Embedded Systems and Real-Time Software Development, and a strong interest in low-level programming, Embedded Linux, and hardware-software integration.
 
-I enjoy developing applications in C/C++, working with microcontrollers, and solving technical challenges involving communication protocols and hardware peripherals.
+I enjoy developing applications in C/C++, working with microcontrollers and embedded Linux platforms, and solving technical challenges involving communication protocols, hardware peripherals, and system-level programming.
 
 ### 🛠️ Technical Skills
 
 - **Programming:** C, C++, Python
-- **Embedded Systems:** STM32, ARM Cortex-M, Bare-Metal Programming
-- **Communication & Peripherals:** UART, SPI, I2C, ADC, DMA, Timers, UDP
-- **Tools & Technologies:** STM32CubeIDE, STM32CubeMX, Git, GitHub, Linux, SQLite3
+- **Embedded Systems:** STM32, ARM Cortex-M, BeagleBone Green, Bare-Metal Programming
+- **Embedded Linux:** POSIX APIs, Linux System Calls, termios, Signal Handling, poll()
+- **Communication & Peripherals:** UART, SPI, I2C, ADC, DMA, Timers, UDP, NMEA
+- **Tools & Technologies:** STM32CubeIDE, STM32CubeMX, GCC, Git, GitHub, Linux, SSH, SCP, SQLite3
 
 ### 🚀 Featured Projects
+
+**🔹 Embedded Linux GPS UART Monitor**
+
+Developed a GPS monitoring application in C for BeagleBone Green running Embedded Linux.
+
+- Implemented UART communication using the Linux termios API.
+- Parsed NMEA GGA sentences and validated message checksums.
+- Implemented GPS coordinate conversion and input validation.
+- Developed communication timeout detection using poll() and CLOCK_MONOTONIC.
+- Implemented graceful shutdown using POSIX signal handling.
+- Performed hardware testing and additional UART simulation.
+
+[View Project](https://github.com/shovalomesi/embedded-linux-gps-monitor)
 
 **🔹 STM32 Hardware Testing System**
 
@@ -33,4 +48,4 @@ Developed a console-based Blackjack game using C, demonstrating programming fund
 
 ### 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/shovalomesi)
+[LinkedIn](https://www.linkedin.com/in/shovalomesi)
