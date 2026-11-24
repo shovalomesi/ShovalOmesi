@@ -1,9 +1,11 @@
 
 # Hi, I'm Shoval Omesi 👋
 
-### 💻 Data Engineering Graduate | Embedded & Real-Time Software Developer
+### 💻 Software Engineering Graduate | Embedded & Real-Time Software Developer
 
-I'm a Data Engineering graduate with practical training in Embedded Systems and Real-Time Software Development, and a strong interest in low-level programming, Embedded Linux, and hardware-software integration.
+I'm a Software Engineering graduate and a Certified Practical Electronics Engineer with practical training in Embedded Systems, Firmware, and Real-Time Software Development.
+
+I have a strong interest in low-level programming, Embedded Linux, and hardware-software integration.
 
 I enjoy developing applications in C/C++, working with microcontrollers and embedded Linux platforms, and solving technical challenges involving communication protocols, hardware peripherals, and system-level programming.
 
@@ -14,6 +16,7 @@ I enjoy developing applications in C/C++, working with microcontrollers and embe
 - **Embedded Linux:** POSIX APIs, Linux System Calls, termios, Signal Handling, poll()
 - **Communication & Peripherals:** UART, SPI, I2C, ADC, DMA, Timers, UDP, NMEA
 - **Tools & Technologies:** STM32CubeIDE, STM32CubeMX, GCC, Git, GitHub, Linux, SSH, SCP, SQLite3
+- **Hardware:** Electronics, Hardware Troubleshooting, Diagnostics, Hardware-Software Integration
 
 ### 🚀 Featured Projects
 
@@ -26,7 +29,7 @@ Developed a GPS monitoring application in C for BeagleBone Green running Embedde
 - Implemented GPS coordinate conversion and input validation.
 - Developed communication timeout detection using poll() and CLOCK_MONOTONIC.
 - Implemented graceful shutdown using POSIX signal handling.
-- Performed hardware testing and additional UART simulation.
+- Tested the initial implementation on physical GPS hardware and designed the updated application to support UART simulation.
 
 [View Project](https://github.com/shovalomesi/embedded-linux-gps-monitor)
 
